@@ -1,0 +1,8 @@
+../Core/Src/main.c:84:10:ADC_Read	8	static
+../Core/Src/main.c:103:10:map	0	static
+../Core/Src/main.c:112:7:PID_Control	0	static
+../Core/Src/main.c:129:6:SysTick_Handler	8	static
+../Core/Src/main.c:209:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:147:5:main	80	static,ignoring_inline_asm
+../Core/Src/main.c:481:6:HAL_TIM_IC_CaptureCallback	0	static
+../Core/Src/main.c:502:6:Error_Handler	0	static,ignoring_inline_asm
